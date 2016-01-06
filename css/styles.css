@@ -3,3 +3,11 @@
   float: right;
   background-color: lightyellow;
 }
+
+.bands {
+  float: left;
+}
+
+body {
+  background-color: lightgrey;
+}
